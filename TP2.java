@@ -1,4 +1,5 @@
 package test;
+// voici un test de pull avec egit
 
 import java.util.Scanner;
 
@@ -23,10 +24,10 @@ public class TP2 {
 				 int a;
 		    	    int interv;
 					System.out.println("Exo 1");
-					System.out.println("Veuillez rentrer la longueur de votre règle");
+					System.out.println("Veuillez rentrer la longueur de votre rÃ¨gle");
 					a = sc.nextInt();
 					sc.nextLine();
-					System.out.println("Veuillez rentrer l'intervalle de  votre règle");
+					System.out.println("Veuillez rentrer l'intervalle de  votre rÃ¨gle");
 					interv=sc.nextInt();
 					
 					exo1(a,interv);
